@@ -2,10 +2,10 @@
 <h1>Projeto Cinema - Banco de Dados</h1>    
 
 
-<h2>Branchs: 
+**Branchs:**
 
-*<h4>Dev - Projeto em Andamento</h4>  
-*<h4>Main - Projeto Finalizado</h4>
+*Dev - Projeto em Andamento 
+*Main - Projeto Finalizado
 ___
 
 
@@ -23,3 +23,5 @@ server (back end)
 |--src (conteúdo da aplicação node)  
 |--package-lock.json (descrição projeto)  
 |--package.json (descrição - dependências - scripts - etc)  
+
+___
