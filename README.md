@@ -4,8 +4,9 @@
 
 <h2>Branchs: 
 
-<h4>Dev - Projeto em Andamento</h4>  
-<h4>Main - Projeto Finalizado</h4>
+*<h4>Dev - Projeto em Andamento</h4>  
+*<h4>Main - Projeto Finalizado</h4>
+___
 
 
 **Estrutura:**
