@@ -2,14 +2,14 @@
 <h1>Projeto Cinema - Banco de Dados</h1>    
 
 
-**Branchs:**
+**:seedling:Branchs:**
 
 *Dev - Projeto em Andamento  
 *Main - Projeto Finalizado
 ___
 
 
-**Estrutura:**
+**:motorway:Estrutura:**
 
 client (front end)  
 |--node_modules (módulos/libs)  
@@ -25,6 +25,8 @@ server (back end)
 |--package.json (descrição - dependências - scripts - etc)  
 
 ___
+
+**:gear:Execução**
 
 _Para executar o projeto react, vá até ./client e execute `npm start` se está usando npm_  
 _Para executar o projeto node, vá até ./server e execute `npm start` se está usando npm_  
