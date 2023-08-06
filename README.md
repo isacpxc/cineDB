@@ -4,7 +4,7 @@
 
 **Branchs:**
 
-*Dev - Projeto em Andamento 
+*Dev - Projeto em Andamento  
 *Main - Projeto Finalizado
 ___
 
