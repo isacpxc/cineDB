@@ -26,4 +26,8 @@ server (back end)
 
 ___
 
+_Para executar o projeto react, vá até ./client e execute `npm start` se está usando npm_  
+_Para executar o projeto node, vá até ./server e execute `npm start` se está usando npm_  
+
+___
 
