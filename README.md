@@ -2,7 +2,7 @@
 <h1>Projeto Cinema - Banco de Dados</h1>    
 
 
-<h2>Branchs:<\h2> 
+<h2>Branchs: 
 
 <h4>Dev - Projeto em Andamento</h4>  
 <h4>Main - Projeto Finalizado</h4>
