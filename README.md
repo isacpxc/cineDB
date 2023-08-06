@@ -1,14 +1,14 @@
 # cineDB  
-Projeto Cinema - Banco de Dados    
+<h1>Projeto Cinema - Banco de Dados</h1>    
 
 
-Branchs:    
+<h2>Branchs:<\h2> 
 
-Dev - Projeto em Andamento  
-Main - Projeto Finalizado    
+<h4>Dev - Projeto em Andamento</h4>  
+<h4>Main - Projeto Finalizado</h4>
 
 
-Estrutura:   
+**Estrutura:**
 
 client (front end)  
 |--node_modules (módulos/libs)  
