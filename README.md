@@ -14,7 +14,12 @@ ___
 client (front end)  
 |--node_modules (módulos/libs)  
 |--public (pasta padrão do html aplicação react) 
+  |--assets (recursos externos)
+    |--img (imagens)
 |--src (pasta aplicação react)  
+  |--font (fonte texto)
+  |--pages (páginas react)
+  |--styles (css criado)
 |--package-lock.json (descrição projeto)  
 |--package.json (descrição - dependências - scripts - etc)  
 
