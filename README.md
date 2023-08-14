@@ -33,8 +33,14 @@ ___
 
 **:gear:Execução**
 
+_Depois de fazer o pull e estiver com o projeto do github no pc, basta digitar npm install ou npm i para instalar todas as dependências necessárias_
+
+_obs:. Lembre-se de verificar de estar dentro da pasta \client ou \server para realizar as ações, não o faça na raiz_
+
 _Para executar o projeto react, vá até ./client e execute `npm start` se está usando npm_  
 _Para executar o projeto node, vá até ./server e execute `npm start` se está usando npm_  
+
+
 
 ___
 
