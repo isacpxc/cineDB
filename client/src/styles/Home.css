@@ -1,0 +1,37 @@
+.all-home{
+  display: grid;
+  grid-template-rows: 5.625vw;
+}
+
+  .header-page {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: black;
+  }
+
+    .area-logo-header{
+      flex: 0.15;
+      
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+      .logo-hold{
+        flex: 0.4;
+        text-align: end;
+        
+      }
+
+        .logo-hold span{
+          font-weight: 700;
+          font-size: 1.8rem;
+          line-height: normal;
+          color: var(--secondary-default);
+        }
+
+    .area-user-header{
+      flex: 0.32;
+      background-color: aquamarine;
+    }

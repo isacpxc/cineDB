@@ -7,6 +7,7 @@ import Movie from './pages/Movie';
 import Login from './pages/Login';
 import SignUp from './pages/SignUp';
 
+import "../src/styles/global.css"
 const router = createBrowserRouter([
   {
     path: "/",
